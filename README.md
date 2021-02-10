@@ -14,7 +14,7 @@ We expect the team to build a complete Web Application (backend and frontend) th
 
 https://youtu.be/yZuv_U9MhN0
 
-{%youtube yZuv_U9MhN0 %}
+
 
 
 Sources: 
