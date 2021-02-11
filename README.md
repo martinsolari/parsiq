@@ -12,7 +12,7 @@ It should be able to present and explore various data provided by our API, for e
 
 We expect the team to build a complete Web Application (backend and frontend) that potentially could evolve into a real public block explorer with transaction debugging functionality enabled by PARSIQ features.
 
-https://youtu.be/yZuv_U9MhN0
+https://youtu.be/Y4nOLUnlcos
 
 
 
